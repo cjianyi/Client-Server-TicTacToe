@@ -1,6 +1,6 @@
 # Client-Server-TicTacToe
 
-This is Assignment 4 for CSC209. I created a Client-Searver based tic tac toe game.
+This is Assignment 4 for CSC209. I created a Client-Server based tic tac toe game.
 To run the program, please download the code and enter the following in the terminal,
 
 gcc -Wall ticsvr.c
